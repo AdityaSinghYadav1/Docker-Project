@@ -1,6 +1,4 @@
 # Jira Software : Docker-Project
-Aditya Docker Project
-
 # Introduction
 Jira Software helps the agile teams plan, track, and release great software at scale. This Docker container makes it easy to get an instance of Jira Software.
 # Steps Followed
