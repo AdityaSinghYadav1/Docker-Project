@@ -21,4 +21,7 @@ The below command was used:-
 3. Access Jira Software
    
 `Jira is now available on http://localhost:8080`
+# Key Learnings
+1. Understood how Docker containers simplify the deployment and scalability of applications like Jira.
+2. By using http://localhost:8080, gained insights into how user-friendly URLs can be mapped to containerized applications for accessibility.
 
