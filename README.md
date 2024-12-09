@@ -12,13 +12,13 @@ Jira Software is a project management tool tailored for agile teams. It facilita
 The below command was used:-
 1. Create a Docker Volume
    
-'docker volume create --name jiraVolume'
+`docker volume create --name jiraVolume`
 
 2. Run the Jira Software Container
    
-'docker run -v jiraVolume:/var/atlassian/application-data/jira --name="jira" -d -p 8080:8080 atlassian/jira-software'
+`docker run -v jiraVolume:/var/atlassian/application-data/jira --name="jira" -d -p 8080:8080 atlassian/jira-software`
 
 3. Access Jira Software
    
-'Jira is now available on http://localhost:8080'
+`Jira is now available on http://localhost:8080`
 
